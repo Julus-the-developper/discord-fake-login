@@ -39,4 +39,4 @@ I used discord's webhook api to allow transferring user information.
 ## Author
 
 - Julus the developper, on Github
-- m_julus, on Discord
+- mq_julus, on Discord
